@@ -1,4 +1,12 @@
-# About UMD Terp Base Module
+# Evan Genest says
+
+I forked this to try and extend the UMD style into a project of my own. Everything from here down is the UMD docs:
+
+--------  
+
+# University of Maryland
+
+## Pre-requisite
 
 UMD Terp Base is the base module for all UMD drupal 8 projects. It is designed to be installed along with the [UMD Terp Theme](https://github.com/UMD-Digital/umd_terp). This module provides a suite of modules, functions, and configuration to make that theme work as designed.
 
